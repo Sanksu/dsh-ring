@@ -1,0 +1,5 @@
+# dsh-ring — DeepSeek Harness 回合分级提示音（精简版）
+# 插入 profile 组合层，重启生效。设置项在「设置 → 通用」的音量滑块。
+- insert:
+    - id: dsh-ring
+      name: dsh-ring
